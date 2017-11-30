@@ -4670,12 +4670,12 @@ Por favor selecione o formato específico.</translation>
     <message>
         <location line="+3"/>
         <source>Tile &quot;%1&quot; already exists in the tileset!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tile %1 já existe no tileset!</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Add anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adicionar de qualquer maneira?</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -4685,7 +4685,7 @@ Por favor selecione o formato específico.</translation>
     <message>
         <location line="+101"/>
         <source>Tiles to be removed are in use by open maps!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Os tiles a serem removidos estão em uso em mapas abertos!</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -4731,7 +4731,7 @@ Por favor selecione o formato específico.</translation>
     <message>
         <location line="+11"/>
         <source>&amp;Replace Tile of Selected Objects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Substituir Tile dos Objetos Selecionados</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -4789,34 +4789,34 @@ Por favor selecione o formato específico.</translation>
         <location line="+113"/>
         <location line="+6"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esquerdo</translation>
     </message>
     <message>
         <location line="-5"/>
         <location line="+12"/>
         <location line="+4"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centro</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Direito</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Justificado</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Superior</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inferior</translation>
     </message>
 </context>
 <context>
@@ -4880,7 +4880,7 @@ Por favor selecione o formato específico.</translation>
     <message>
         <location filename="../src/tiled/changeproperties.cpp" line="+41"/>
         <source>Change Properties</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alterar Propriedades</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4998,7 +4998,7 @@ Por favor selecione o formato específico.</translation>
     <message>
         <location line="+59"/>
         <source>Change Grid Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alterar Tamanho da Grade</translation>
     </message>
     <message>
         <location filename="../src/tiled/movemapobjecttogroup.cpp" line="+41"/>
@@ -5080,8 +5080,8 @@ Por favor selecione o formato específico.</translation>
         <location line="+48"/>
         <source>Change %n Object/s Tile</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>Alterar %n do Objeto Tile</numerusform>
+            <numerusform>Alterar %n dos Objetos Tiles</numerusform>
         </translation>
     </message>
     <message>
@@ -5223,17 +5223,17 @@ Por favor selecione o formato específico.</translation>
     <message>
         <location filename="../src/tiled/changetile.cpp" line="+34"/>
         <source>Change Tile Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alterar Tipo de Tile</translation>
     </message>
     <message>
         <location filename="../src/tiled/swaptiles.cpp" line="+37"/>
         <source>Swap Tiles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trocar Tiles</translation>
     </message>
     <message>
         <location filename="../src/tiled/tilesetdocument.cpp" line="-145"/>
         <source>Reload Tileset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recarregar Tileset</translation>
     </message>
 </context>
 <context>
